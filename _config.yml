@@ -1,8 +1,0 @@
-plugins:
-  - jekyll-seo-tag
-
-title: Pharos Indexing
-description: 
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-dinky
